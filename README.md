@@ -1,6 +1,6 @@
 # flutter_tip_calculator_app
 
-A new Flutter application.
+A new Flutter application that calulates amount that is supposed to be paid as a tip in a restaurant or any other place
 
 ## Getting Started
 
